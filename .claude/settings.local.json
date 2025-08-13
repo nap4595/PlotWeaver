@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(mkdir:*)",
+      "Bash(move:*)",
+      "Bash(move \"추가기능.md\" docs/)",
+      "Bash(mv:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
